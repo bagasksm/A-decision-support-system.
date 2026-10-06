@@ -4,6 +4,6 @@ A Decision Support System application for selecting high-quality *santri* (Islam
 
 ## Installation Instructions
 1. Place the folder in `htdocs` (XAMPP).
-2. Import `metode_saw.sql` via phpMyAdmin.
-3. Copy `admin/assets/conn/config.php` and adjust the settings.
+2. Make a new database named 'metode_saw' in phpMyAdmin.
+3. Import `metode_saw.sql` via phpMyAdmin.
 4. Open `http://localhost/penerapan-metode-saw`.
